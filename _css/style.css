@@ -38,7 +38,7 @@ nav#menu a:link{
     font-weight: bold;
 }
 nav#menu a:visited{
-    text-decoration: none;
+    text-decoration: none;                                                  
     color: antiquewhite;
     font-weight: bold;
 }
